@@ -1,0 +1,23 @@
+─ Session info ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ setting  value
+ version  R version 4.4.1 (2024-06-14)
+ os       macOS Sonoma 14.4
+ system   aarch64, darwin20
+ ui       RStudio
+ language (EN)
+ collate  en_US.UTF-8
+ ctype    en_US.UTF-8
+ tz       Asia/Seoul
+ date     2025-08-05
+ rstudio  2025.05.1+513 Mariposa Orchid (desktop)
+ pandoc   NA
+
+─ Packages ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ package     * version date (UTC) lib source
+ cli           3.6.5   2025-04-23 [1] CRAN (R 4.4.1)
+ rstudioapi    0.16.0  2024-03-24 [1] CRAN (R 4.4.0)
+ sessioninfo * 1.2.2   2021-12-06 [1] CRAN (R 4.4.0)
+
+ [1] /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
